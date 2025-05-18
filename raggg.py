@@ -1,4 +1,4 @@
-pip install streamlit langchain langchain-community openai pinecone-client pypdf
+!pip install streamlit langchain langchain-community openai pinecone-client pypdf
 from langchain_community.document_loaders import PyPDFLoader
 
 # Specify the path to your PDF file
